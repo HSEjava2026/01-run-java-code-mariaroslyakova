@@ -1,4 +1,5 @@
-import second.Person;
+package ru.hse.lab1;
+import ru.hse.lab1.second.Person;
 /** 
  * @author - Maria Roslyakova 
  * @version - 1.0

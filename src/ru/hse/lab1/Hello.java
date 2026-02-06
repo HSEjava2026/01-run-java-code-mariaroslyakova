@@ -1,3 +1,5 @@
+package ru.hse.lab1;
+
 /** 
  * @author - Maria Roslyakova 
  * @version - 1.0

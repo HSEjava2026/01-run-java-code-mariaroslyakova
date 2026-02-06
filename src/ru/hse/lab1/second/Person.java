@@ -1,4 +1,4 @@
-package second;
+package ru.hse.lab1.second;
 /** 
  * @author - Maria Roslyakova 
  * @version - 1.0
@@ -12,4 +12,3 @@ public class Person {
         this.name = name;
     }
 }
-
